@@ -96,7 +96,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "popperjs": "github:tanjimhasan/popperjs",
+    "popperjs": "github:tanjimhasan/popperjs"
   },
   "browserslist": "last 2 versions"
 }
